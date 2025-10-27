@@ -12,7 +12,7 @@
 
 #### Class Project Links
 
-TODO: make a pull request to add your project website to this page before Nov 23rd, 2025.
+TODO: make a pull request to add your project website link (It doesn't have to work until the deadline.) to this page before Nov 23rd, 2025.
 
 | Website | Author | Description |
 |---------|--------|-------------|
