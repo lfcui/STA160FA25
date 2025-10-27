@@ -1,7 +1,6 @@
 # STA160 Capstone Project
 
 
-## Class Projects
 
 #### Demo Links
 
