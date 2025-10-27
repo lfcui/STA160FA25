@@ -16,7 +16,7 @@ TODO: make a pull request to add your project website to this page before Nov 23
 
 | Website | Author | Description |
 |---------|--------|-------------|
-|[Name](https://link) | Team 1: (member1)[githubaddress], (member2)[githubaddress], (member3)[githubaddress]| |
+|[Name](https://link) | Team 1| |
 |[Name](https://link) | Team 2| |
 |[Name](https://link) | Team 3| |
 |[Name](https://link) | Team 4| |
